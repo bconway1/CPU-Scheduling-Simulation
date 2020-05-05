@@ -1,0 +1,1988 @@
+processes listed of the form 'process#: predicted time(seconds);'
+
+process: 0 added to ready queue
+Ready Queue: 0: 0.0183331; 
+process: 0 removed from ready queue 
+Ready Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 0.0183331; 
+process: 6 added to ready queue
+Ready Queue: 2: 0.0183331; 
+process: 9 added to ready queue
+Ready Queue: 2: 0.0183331; 6: 0.0183331; 
+process: 5 added to ready queue
+Ready Queue: 2: 0.0183331; 9: 0.0183331; 
+process: 8 added to ready queue
+Ready Queue: 2: 0.0183331; 9: 0.0183331; 8: 0.0183331; 
+process: 7 added to ready queue
+Ready Queue: 2: 0.0183331; 9: 0.0183331; 7: 0.0183331; 
+process: 1 added to ready queue
+Ready Queue: 2: 0.0183331; 9: 0.0183331; 7: 0.0183331; 1: 0.0183331; 
+process: 3 added to ready queue
+Ready Queue: 2: 0.0183331; 9: 0.0183331; 1: 0.0183331; 7: 0.0183331; 
+process: 4 added to ready queue
+Ready Queue: 2: 0.0183331; 9: 0.0183331; 1: 0.0183331; 4: 0.0183331; 7: 0.0183331; 
+process: 2 removed from ready queue 
+Ready Queue: 9 1 4 7 
+process: 0 added to io queue
+IO Queue: 0 
+process: 0 removed from IO queue 
+IO Queue: 
+process: 0 added to ready queue
+Ready Queue: 9: 0.0183331; 1: 0.0183331; 4: 0.0183331; 7: 0.0183331; 3: 0.0183331; 
+process: 9 removed from ready queue 
+Ready Queue: 1 4 7 3 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 1: 0.0183331; 4: 0.0183331; 7: 0.0183331; 3: 0.0183331; 6: 0.0183331; 
+process: 1 removed from ready queue 
+Ready Queue: 4 7 3 6 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 4: 0.0183331; 7: 0.0183331; 6: 0.0183331; 8: 0.0183331; 3: 0.0183331; 
+process: 4 removed from ready queue 
+Ready Queue: 7 6 8 3 
+process: 1 added to io queue
+IO Queue: 1 
+process: 1 removed from IO queue 
+IO Queue: 
+process: 1 added to ready queue
+Ready Queue: 7: 0.0183331; 6: 0.0183331; 8: 0.0183331; 5: 0.0183331; 3: 0.0183331; 
+process: 7 removed from ready queue 
+Ready Queue: 6 8 5 3 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 6: 0.0183331; 8: 0.0183331; 5: 0.0183331; 3: 0.0183331; 9: 1.83454; 
+process: 6 removed from ready queue 
+Ready Queue: 8 5 3 9 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 8: 0.0183331; 5: 0.0183331; 3: 0.0183331; 9: 1.83454; 7: 2.1149; 
+process: 8 removed from ready queue 
+Ready Queue: 5 3 9 7 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 5: 0.0183331; 3: 0.0183331; 9: 1.83454; 7: 2.1149; 6: 2.29012; 
+process: 5 removed from ready queue 
+Ready Queue: 3 9 7 6 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 3: 0.0183331; 9: 1.83454; 8: 1.96471; 7: 2.1149; 6: 2.29012; 
+process: 3 removed from ready queue 
+Ready Queue: 9 8 7 6 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 9: 1.83454; 8: 1.96471; 7: 2.1149; 6: 2.29012; 5: 2.4972; 
+process: 9 removed from ready queue 
+Ready Queue: 8 7 6 5 
+process: 3 added to io queue
+IO Queue: 3 
+process: 3 removed from IO queue 
+IO Queue: 
+process: 3 added to ready queue
+Ready Queue: 8: 1.96471; 7: 2.1149; 6: 2.29012; 5: 2.4972; 4: 2.7457; 
+process: 8 removed from ready queue 
+Ready Queue: 7 6 5 4 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 7: 2.1149; 6: 2.29012; 5: 2.4972; 4: 2.7457; 9: 3.04535; 
+process: 7 removed from ready queue 
+Ready Queue: 6 5 4 9 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 6: 2.29012; 5: 2.4972; 4: 2.7457; 9: 3.04535; 3: 3.04942; 
+process: 6 removed from ready queue 
+Ready Queue: 5 4 9 3 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 5: 2.4972; 4: 2.7457; 9: 3.04535; 3: 3.04942; 8: 3.2623; 
+process: 5 removed from ready queue 
+Ready Queue: 4 9 3 8 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 4: 2.7457; 9: 3.04535; 3: 3.04942; 8: 3.2623; 2: 3.42907; 
+process: 4 removed from ready queue 
+Ready Queue: 9 3 8 2 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 9: 3.04535; 3: 3.04942; 8: 3.2623; 2: 3.42907; 7: 3.51262; 
+process: 9 removed from ready queue 
+Ready Queue: 3 8 2 7 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 3: 3.04942; 8: 3.2623; 2: 3.42907; 7: 3.51262; 6: 3.80465; 
+process: 3 removed from ready queue 
+Ready Queue: 8 2 7 6 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 8: 3.2623; 2: 3.42907; 7: 3.51262; 6: 3.80465; 9: 3.85256; 
+process: 8 removed from ready queue 
+Ready Queue: 2 7 6 9 
+process: 3 added to io queue
+IO Queue: 3 
+process: 3 removed from IO queue 
+IO Queue: 
+process: 3 added to ready queue
+Ready Queue: 2: 3.42907; 7: 3.51262; 6: 3.80465; 9: 3.85256; 1: 3.91719; 
+process: 2 removed from ready queue 
+Ready Queue: 7 6 9 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 7: 3.51262; 6: 3.80465; 9: 3.85256; 1: 3.91719; 8: 4.12736; 
+process: 7 removed from ready queue 
+Ready Queue: 6 9 1 8 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 6: 3.80465; 9: 3.85256; 1: 3.91719; 8: 4.12736; 5: 4.14979; 
+process: 6 removed from ready queue 
+Ready Queue: 9 1 8 5 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 9: 3.85256; 1: 3.91719; 8: 4.12736; 5: 4.14979; 7: 4.44443; 
+process: 9 removed from ready queue 
+Ready Queue: 1 8 5 7 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 1: 3.91719; 8: 4.12736; 5: 4.14979; 7: 4.44443; 4: 4.56396; 
+process: 1 removed from ready queue 
+Ready Queue: 8 5 7 4 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 8: 4.12736; 5: 4.14979; 9: 4.39071; 7: 4.44443; 4: 4.56396; 
+process: 8 removed from ready queue 
+Ready Queue: 5 9 7 4 
+process: 1 added to io queue
+IO Queue: 1 
+process: 1 removed from IO queue 
+IO Queue: 
+process: 1 added to ready queue
+Ready Queue: 5: 4.14979; 9: 4.39071; 7: 4.44443; 4: 4.56396; 0: 4.56802; 
+process: 5 removed from ready queue 
+Ready Queue: 9 7 4 0 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 9: 4.39071; 7: 4.44443; 4: 4.56396; 0: 4.56802; 8: 4.70407; 
+process: 9 removed from ready queue 
+Ready Queue: 7 4 0 8 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 7: 4.44443; 4: 4.56396; 0: 4.56802; 8: 4.70407; 6: 4.81435; 
+process: 7 removed from ready queue 
+Ready Queue: 4 0 8 6 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 4: 4.56396; 0: 4.56802; 8: 4.70407; 9: 4.74947; 6: 4.81435; 
+process: 4 removed from ready queue 
+Ready Queue: 0 8 9 6 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 0: 4.56802; 8: 4.70407; 9: 4.74947; 6: 4.81435; 7: 5.06564; 
+process: 0 removed from ready queue 
+Ready Queue: 8 9 6 7 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 8: 4.70407; 9: 4.74947; 6: 4.81435; 7: 5.06564; 3: 5.07016; 
+process: 8 removed from ready queue 
+Ready Queue: 9 6 7 3 
+process: 0 added to io queue
+IO Queue: 0 
+process: 0 removed from IO queue 
+IO Queue: 
+process: 0 added to ready queue
+Ready Queue: 9: 4.74947; 6: 4.81435; 7: 5.06564; 3: 5.07016; 5: 5.25152; 
+process: 9 removed from ready queue 
+Ready Queue: 6 7 3 5 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 6: 4.81435; 7: 5.06564; 3: 5.07016; 8: 5.08855; 5: 5.25152; 
+process: 6 removed from ready queue 
+Ready Queue: 7 3 8 5 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 4.98865; 7: 5.06564; 3: 5.07016; 8: 5.08855; 5: 5.25152; 
+process: 9 removed from ready queue 
+Ready Queue: 7 3 8 5 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 7: 5.06564; 3: 5.07016; 8: 5.08855; 5: 5.25152; 6: 5.48748; 
+process: 7 removed from ready queue 
+Ready Queue: 3 8 5 6 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 3: 5.07016; 8: 5.08855; 9: 5.1481; 5: 5.25152; 6: 5.48748; 
+process: 3 removed from ready queue 
+Ready Queue: 8 9 5 6 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 8: 5.08855; 9: 5.1481; 5: 5.25152; 7: 5.47979; 6: 5.48748; 
+process: 8 removed from ready queue 
+Ready Queue: 9 5 7 6 
+process: 3 added to io queue
+IO Queue: 3 
+process: 3 removed from IO queue 
+IO Queue: 
+process: 3 added to ready queue
+Ready Queue: 9: 5.1481; 5: 5.25152; 7: 5.47979; 6: 5.48748; 2: 5.70291; 
+process: 9 removed from ready queue 
+Ready Queue: 5 7 6 2 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 5: 5.25152; 8: 5.34487; 7: 5.47979; 6: 5.48748; 2: 5.70291; 
+process: 5 removed from ready queue 
+Ready Queue: 8 7 6 2 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.2544; 8: 5.34487; 7: 5.47979; 6: 5.48748; 2: 5.70291; 
+process: 9 removed from ready queue 
+Ready Queue: 8 7 6 2 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 8: 5.34487; 7: 5.47979; 6: 5.48748; 2: 5.70291; 4: 5.77613; 
+process: 8 removed from ready queue 
+Ready Queue: 7 6 2 4 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.32527; 7: 5.47979; 6: 5.48748; 2: 5.70291; 4: 5.77613; 
+process: 9 removed from ready queue 
+Ready Queue: 7 6 2 4 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 7: 5.47979; 6: 5.48748; 8: 5.51575; 2: 5.70291; 4: 5.77613; 
+process: 7 removed from ready queue 
+Ready Queue: 6 8 2 4 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.37252; 6: 5.48748; 8: 5.51575; 2: 5.70291; 4: 5.77613; 
+process: 9 removed from ready queue 
+Ready Queue: 6 8 2 4 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 6: 5.48748; 8: 5.51575; 2: 5.70291; 7: 5.75589; 4: 5.77613; 
+process: 6 removed from ready queue 
+Ready Queue: 8 2 7 4 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.40402; 8: 5.51575; 2: 5.70291; 7: 5.75589; 4: 5.77613; 
+process: 9 removed from ready queue 
+Ready Queue: 8 2 7 4 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 8: 5.51575; 2: 5.70291; 7: 5.75589; 4: 5.77613; 6: 5.93624; 
+process: 8 removed from ready queue 
+Ready Queue: 2 7 4 6 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.42501; 2: 5.70291; 7: 5.75589; 4: 5.77613; 6: 5.93624; 
+process: 9 removed from ready queue 
+Ready Queue: 2 7 4 6 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.62967; 2: 5.70291; 7: 5.75589; 4: 5.77613; 6: 5.93624; 
+process: 8 removed from ready queue 
+Ready Queue: 2 7 4 6 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.43901; 2: 5.70291; 7: 5.75589; 4: 5.77613; 6: 5.93624; 
+process: 9 removed from ready queue 
+Ready Queue: 2 7 4 6 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 2: 5.70291; 8: 5.70562; 7: 5.75589; 4: 5.77613; 6: 5.93624; 
+process: 2 removed from ready queue 
+Ready Queue: 8 7 4 6 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.44835; 8: 5.70562; 7: 5.75589; 4: 5.77613; 6: 5.93624; 
+process: 9 removed from ready queue 
+Ready Queue: 8 7 4 6 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 8: 5.70562; 7: 5.75589; 4: 5.77613; 6: 5.93624; 5: 5.98601; 
+process: 8 removed from ready queue 
+Ready Queue: 7 4 6 5 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.45457; 7: 5.75589; 4: 5.77613; 6: 5.93624; 5: 5.98601; 
+process: 9 removed from ready queue 
+Ready Queue: 7 4 6 5 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 7: 5.75589; 8: 5.75625; 4: 5.77613; 6: 5.93624; 5: 5.98601; 
+process: 7 removed from ready queue 
+Ready Queue: 8 4 6 5 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.45872; 8: 5.75625; 4: 5.77613; 6: 5.93624; 5: 5.98601; 
+process: 9 removed from ready queue 
+Ready Queue: 8 4 6 5 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 8: 5.75625; 4: 5.77613; 6: 5.93624; 7: 5.93995; 5: 5.98601; 
+process: 8 removed from ready queue 
+Ready Queue: 4 6 7 5 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.46148; 4: 5.77613; 6: 5.93624; 7: 5.93995; 5: 5.98601; 
+process: 9 removed from ready queue 
+Ready Queue: 4 6 7 5 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 4: 5.77613; 8: 5.79; 6: 5.93624; 7: 5.93995; 5: 5.98601; 
+process: 4 removed from ready queue 
+Ready Queue: 8 6 7 5 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.46332; 8: 5.79; 6: 5.93624; 7: 5.93995; 5: 5.98601; 
+process: 9 removed from ready queue 
+Ready Queue: 8 6 7 5 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 8: 5.79; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 8 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.46455; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 9 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.81251; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 8 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.46537; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 9 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.82751; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 8 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.46592; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 9 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.83751; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 8 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.46628; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 9 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.84418; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 8 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.46653; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 9 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.84862; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 8 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.46669; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 9 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85159; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 8 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.4668; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 9 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85356; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 8 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.46687; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 9 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85488; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 8 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.46692; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 9 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85576; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 8 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 9 added to io queue
+IO Queue: 9 
+process: 9 removed from IO queue 
+IO Queue: 
+process: 9 added to ready queue
+Ready Queue: 9: 5.46695; 6: 5.93624; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 9 removed from ready queue 
+Ready Queue: 6 7 5 3 
+process: 6 removed from ready queue 
+Ready Queue: 7 5 3 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85634; 7: 5.93995; 5: 5.98601; 3: 6.41732; 
+process: 8 removed from ready queue 
+Ready Queue: 7 5 3 1 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 7: 5.93995; 5: 5.98601; 6: 6.23541; 3: 6.41732; 
+process: 7 removed from ready queue 
+Ready Queue: 5 6 3 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85673; 5: 5.98601; 6: 6.23541; 3: 6.41732; 
+process: 8 removed from ready queue 
+Ready Queue: 5 6 3 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 5: 5.98601; 7: 6.06266; 6: 6.23541; 3: 6.41732; 
+process: 5 removed from ready queue 
+Ready Queue: 7 6 3 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85699; 7: 6.06266; 6: 6.23541; 3: 6.41732; 
+process: 8 removed from ready queue 
+Ready Queue: 7 6 3 1 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 7: 6.06266; 6: 6.23541; 3: 6.41732; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 6 3 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85717; 6: 6.23541; 3: 6.41732; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 6 3 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.14447; 6: 6.23541; 3: 6.41732; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 6 3 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85728; 6: 6.23541; 3: 6.41732; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 6 3 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.19901; 6: 6.23541; 3: 6.41732; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 6 3 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85736; 6: 6.23541; 3: 6.41732; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 6 3 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.23537; 6: 6.23541; 3: 6.41732; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 6 3 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85741; 6: 6.23541; 3: 6.41732; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 6 3 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 6: 6.23541; 7: 6.25961; 3: 6.41732; 5: 6.47568; 
+process: 6 removed from ready queue 
+Ready Queue: 7 3 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85744; 7: 6.25961; 3: 6.41732; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 7 3 5 1 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 7: 6.25961; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85747; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.27577; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85748; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.28654; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85749; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.29373; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.8575; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.29851; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.8575; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.30171; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85751; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.30383; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85751; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.30525; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85751; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.3062; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85751; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.30683; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85751; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.30725; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 7 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 8 added to io queue
+IO Queue: 8 
+process: 8 removed from IO queue 
+IO Queue: 
+process: 8 added to ready queue
+Ready Queue: 8: 5.85751; 3: 6.41732; 6: 6.43486; 5: 6.47568; 
+process: 8 removed from ready queue 
+Ready Queue: 3 6 5 1 
+process: 3 removed from ready queue 
+Ready Queue: 6 5 1 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.30753; 6: 6.43486; 5: 6.47568; 1: 6.51644; 
+process: 7 removed from ready queue 
+Ready Queue: 6 5 1 
+process: 3 added to io queue
+IO Queue: 3 
+process: 3 removed from IO queue 
+IO Queue: 
+process: 3 added to ready queue
+Ready Queue: 6: 6.43486; 5: 6.47568; 1: 6.51644; 4: 6.58425; 
+process: 6 removed from ready queue 
+Ready Queue: 5 1 4 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.30772; 5: 6.47568; 1: 6.51644; 4: 6.58425; 
+process: 7 removed from ready queue 
+Ready Queue: 5 1 4 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 5: 6.47568; 1: 6.51644; 6: 6.56783; 4: 6.58425; 
+process: 5 removed from ready queue 
+Ready Queue: 1 6 4 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.30784; 1: 6.51644; 6: 6.56783; 4: 6.58425; 
+process: 7 removed from ready queue 
+Ready Queue: 1 6 4 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 1: 6.51644; 6: 6.56783; 4: 6.58425; 5: 6.80212; 
+process: 1 removed from ready queue 
+Ready Queue: 6 4 5 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.30792; 6: 6.56783; 4: 6.58425; 5: 6.80212; 
+process: 7 removed from ready queue 
+Ready Queue: 6 4 5 
+process: 1 added to io queue
+IO Queue: 1 
+process: 1 removed from IO queue 
+IO Queue: 
+process: 1 added to ready queue
+Ready Queue: 6: 6.56783; 4: 6.58425; 5: 6.80212; 2: 7.21881; 
+process: 6 removed from ready queue 
+Ready Queue: 4 5 2 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.30798; 4: 6.58425; 5: 6.80212; 2: 7.21881; 
+process: 7 removed from ready queue 
+Ready Queue: 4 5 2 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 4: 6.58425; 6: 6.65647; 5: 6.80212; 2: 7.21881; 
+process: 4 removed from ready queue 
+Ready Queue: 6 5 2 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.30802; 6: 6.65647; 5: 6.80212; 2: 7.21881; 
+process: 7 removed from ready queue 
+Ready Queue: 6 5 2 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 6: 6.65647; 5: 6.80212; 4: 7.123; 2: 7.21881; 
+process: 6 removed from ready queue 
+Ready Queue: 5 4 2 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.30804; 5: 6.80212; 4: 7.123; 2: 7.21881; 
+process: 7 removed from ready queue 
+Ready Queue: 5 4 2 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.71557; 5: 6.80212; 4: 7.123; 2: 7.21881; 
+process: 6 removed from ready queue 
+Ready Queue: 5 4 2 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.30806; 5: 6.80212; 4: 7.123; 2: 7.21881; 
+process: 7 removed from ready queue 
+Ready Queue: 5 4 2 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.75497; 5: 6.80212; 4: 7.123; 2: 7.21881; 
+process: 6 removed from ready queue 
+Ready Queue: 5 4 2 
+process: 7 added to io queue
+IO Queue: 7 
+process: 7 removed from IO queue 
+IO Queue: 
+process: 7 added to ready queue
+Ready Queue: 7: 6.30807; 5: 6.80212; 4: 7.123; 2: 7.21881; 
+process: 7 removed from ready queue 
+Ready Queue: 5 4 2 
+process: 5 removed from ready queue 
+Ready Queue: 4 2 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.78123; 4: 7.123; 2: 7.21881; 
+process: 6 removed from ready queue 
+Ready Queue: 4 2 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.01975; 4: 7.123; 2: 7.21881; 
+process: 5 removed from ready queue 
+Ready Queue: 4 2 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.79874; 4: 7.123; 2: 7.21881; 
+process: 6 removed from ready queue 
+Ready Queue: 4 2 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 4: 7.123; 5: 7.16484; 2: 7.21881; 
+process: 4 removed from ready queue 
+Ready Queue: 5 2 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.81042; 5: 7.16484; 2: 7.21881; 
+process: 6 removed from ready queue 
+Ready Queue: 5 2 3 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 5: 7.16484; 2: 7.21881; 3: 7.31543; 
+process: 5 removed from ready queue 
+Ready Queue: 2 3 4 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.8182; 2: 7.21881; 3: 7.31543; 
+process: 6 removed from ready queue 
+Ready Queue: 2 3 4 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 2: 7.21881; 5: 7.26156; 3: 7.31543; 
+process: 2 removed from ready queue 
+Ready Queue: 5 3 4 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.82339; 5: 7.26156; 3: 7.31543; 
+process: 6 removed from ready queue 
+Ready Queue: 5 3 4 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 5: 7.26156; 3: 7.31543; 4: 7.48217; 
+process: 5 removed from ready queue 
+Ready Queue: 3 4 0 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.82685; 3: 7.31543; 4: 7.48217; 
+process: 6 removed from ready queue 
+Ready Queue: 3 4 0 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 3: 7.31543; 5: 7.32605; 4: 7.48217; 
+process: 3 removed from ready queue 
+Ready Queue: 5 4 0 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.82915; 5: 7.32605; 4: 7.48217; 
+process: 6 removed from ready queue 
+Ready Queue: 5 4 0 
+process: 3 added to io queue
+IO Queue: 3 
+process: 3 removed from IO queue 
+IO Queue: 
+process: 3 added to ready queue
+Ready Queue: 5: 7.32605; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83069; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.36904; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83172; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.3977; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.8324; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.4168; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83285; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.42954; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83316; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.43803; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83336; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.44369; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.8335; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.44747; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83359; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.44998; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83365; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.45166; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83369; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.45278; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83371; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.45353; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83373; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.45402; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83374; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.45435; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83375; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.45457; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83375; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.45472; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83376; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.45482; 4: 7.48217; 0: 7.60116; 
+process: 5 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 6 added to io queue
+IO Queue: 6 
+process: 6 removed from IO queue 
+IO Queue: 
+process: 6 added to ready queue
+Ready Queue: 6: 6.83376; 4: 7.48217; 0: 7.60116; 
+process: 6 removed from ready queue 
+Ready Queue: 4 0 3 
+process: 4 removed from ready queue 
+Ready Queue: 0 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.45489; 0: 7.60116; 3: 7.91418; 
+process: 5 removed from ready queue 
+Ready Queue: 0 3 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 0: 7.60116; 4: 7.72162; 3: 7.91418; 
+process: 0 removed from ready queue 
+Ready Queue: 4 3 
+process: 5 added to io queue
+IO Queue: 5 
+process: 5 removed from IO queue 
+IO Queue: 
+process: 5 added to ready queue
+Ready Queue: 5: 7.45493; 4: 7.72162; 3: 7.91418; 
+process: 5 removed from ready queue 
+Ready Queue: 4 3 
+process: 4 removed from ready queue 
+Ready Queue: 3 2 
+process: 0 added to io queue
+IO Queue: 0 
+process: 0 removed from IO queue 
+IO Queue: 
+process: 0 added to ready queue
+Ready Queue: 3: 7.91418; 2: 8.22941; 
+process: 3 removed from ready queue 
+Ready Queue: 2 1 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 7.88125; 2: 8.22941; 
+process: 4 removed from ready queue 
+Ready Queue: 2 1 
+process: 3 added to io queue
+IO Queue: 3 
+process: 3 removed from IO queue 
+IO Queue: 
+process: 3 added to ready queue
+Ready Queue: 2: 8.22941; 1: 8.24929; 
+process: 2 removed from ready queue 
+Ready Queue: 1 3 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 7.98767; 1: 8.24929; 
+process: 4 removed from ready queue 
+Ready Queue: 1 3 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 1: 8.24929; 3: 8.31334; 
+process: 1 removed from ready queue 
+Ready Queue: 3 2 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 8.05862; 3: 8.31334; 
+process: 4 removed from ready queue 
+Ready Queue: 3 2 
+process: 1 added to io queue
+IO Queue: 1 
+process: 1 removed from IO queue 
+IO Queue: 
+process: 1 added to ready queue
+Ready Queue: 3: 8.31334; 2: 8.90315; 
+process: 3 removed from ready queue 
+Ready Queue: 2 1 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 8.10592; 2: 8.90315; 
+process: 4 removed from ready queue 
+Ready Queue: 2 1 
+process: 3 added to io queue
+IO Queue: 3 
+process: 3 removed from IO queue 
+IO Queue: 
+process: 3 added to ready queue
+Ready Queue: 3: 8.57946; 2: 8.90315; 
+process: 3 removed from ready queue 
+Ready Queue: 2 1 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 8.13745; 2: 8.90315; 
+process: 4 removed from ready queue 
+Ready Queue: 2 1 
+process: 3 added to io queue
+IO Queue: 3 
+process: 3 removed from IO queue 
+IO Queue: 
+process: 3 added to ready queue
+Ready Queue: 3: 8.75686; 2: 8.90315; 
+process: 3 removed from ready queue 
+Ready Queue: 2 1 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 8.15847; 2: 8.90315; 
+process: 4 removed from ready queue 
+Ready Queue: 2 1 
+process: 3 added to io queue
+IO Queue: 3 
+process: 3 removed from IO queue 
+IO Queue: 
+process: 3 added to ready queue
+Ready Queue: 3: 8.87514; 2: 8.90315; 
+process: 3 removed from ready queue 
+Ready Queue: 2 1 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 8.17249; 2: 8.90315; 
+process: 4 removed from ready queue 
+Ready Queue: 2 1 
+process: 3 added to io queue
+IO Queue: 3 
+process: 3 removed from IO queue 
+IO Queue: 
+process: 3 added to ready queue
+Ready Queue: 2: 8.90315; 3: 8.95399; 
+process: 2 removed from ready queue 
+Ready Queue: 3 1 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 8.18183; 3: 8.95399; 
+process: 4 removed from ready queue 
+Ready Queue: 3 1 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 3: 8.95399; 2: 9.35231; 
+process: 3 removed from ready queue 
+Ready Queue: 2 1 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 8.18806; 2: 9.35231; 
+process: 4 removed from ready queue 
+Ready Queue: 2 1 
+process: 3 added to io queue
+IO Queue: 3 
+process: 3 removed from IO queue 
+IO Queue: 
+process: 3 added to ready queue
+Ready Queue: 3: 9.00655; 2: 9.35231; 
+process: 3 removed from ready queue 
+Ready Queue: 2 1 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 8.19221; 2: 9.35231; 
+process: 4 removed from ready queue 
+Ready Queue: 2 1 
+process: 3 added to io queue
+IO Queue: 3 
+process: 3 removed from IO queue 
+IO Queue: 
+process: 3 added to ready queue
+Ready Queue: 3: 9.0416; 2: 9.35231; 
+process: 3 removed from ready queue 
+Ready Queue: 2 1 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 8.19498; 2: 9.35231; 
+process: 4 removed from ready queue 
+Ready Queue: 2 1 
+process: 3 added to io queue
+IO Queue: 3 
+process: 3 removed from IO queue 
+IO Queue: 
+process: 3 added to ready queue
+Ready Queue: 3: 9.06496; 2: 9.35231; 
+process: 3 removed from ready queue 
+Ready Queue: 2 1 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 8.19683; 2: 9.35231; 
+process: 4 removed from ready queue 
+Ready Queue: 2 1 
+process: 3 added to io queue
+IO Queue: 3 
+process: 3 removed from IO queue 
+IO Queue: 
+process: 3 added to ready queue
+Ready Queue: 3: 9.08054; 2: 9.35231; 
+process: 3 removed from ready queue 
+Ready Queue: 2 1 
+process: 2 removed from ready queue 
+Ready Queue: 1 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 8.19806; 1: 9.40452; 
+process: 4 removed from ready queue 
+Ready Queue: 1 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 1: 9.40452; 0: 9.62326; 
+process: 1 removed from ready queue 
+Ready Queue: 0 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 8.19888; 0: 9.62326; 
+process: 4 removed from ready queue 
+Ready Queue: 0 
+process: 1 added to io queue
+IO Queue: 1 
+process: 1 removed from IO queue 
+IO Queue: 
+process: 1 added to ready queue
+Ready Queue: 0: 9.62326; 2: 9.65175; 
+process: 0 removed from ready queue 
+Ready Queue: 2 
+process: 4 added to io queue
+IO Queue: 4 
+process: 4 removed from IO queue 
+IO Queue: 
+process: 4 added to ready queue
+Ready Queue: 4: 8.19942; 2: 9.65175; 
+process: 4 removed from ready queue 
+Ready Queue: 2 
+process: 2 removed from ready queue 
+Ready Queue: 1 
+process: 0 added to io queue
+IO Queue: 0 
+process: 0 removed from IO queue 
+IO Queue: 
+process: 0 added to ready queue
+Ready Queue: 1: 10.1747; 
+process: 1 removed from ready queue 
+Ready Queue: 0 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 9.85138; 
+process: 2 removed from ready queue 
+Ready Queue: 0 
+process: 1 added to io queue
+IO Queue: 1 
+process: 1 removed from IO queue 
+IO Queue: 
+process: 1 added to ready queue
+Ready Queue: 1: 10.6881; 
+process: 1 removed from ready queue 
+Ready Queue: 0 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 9.98447; 
+process: 2 removed from ready queue 
+Ready Queue: 0 
+process: 1 added to io queue
+IO Queue: 1 
+process: 1 removed from IO queue 
+IO Queue: 
+process: 1 added to ready queue
+Ready Queue: 0: 10.9713; 
+process: 0 removed from ready queue 
+Ready Queue: 1 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 10.0732; 
+process: 2 removed from ready queue 
+Ready Queue: 1 
+process: 0 added to io queue
+IO Queue: 0 
+process: 0 removed from IO queue 
+IO Queue: 
+process: 0 added to ready queue
+Ready Queue: 1: 11.0304; 
+process: 1 removed from ready queue 
+Ready Queue: 0 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 10.1323; 
+process: 2 removed from ready queue 
+Ready Queue: 0 
+process: 1 added to io queue
+IO Queue: 1 
+process: 1 removed from IO queue 
+IO Queue: 
+process: 1 added to ready queue
+Ready Queue: 1: 11.2586; 
+process: 1 removed from ready queue 
+Ready Queue: 0 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 10.1718; 
+process: 2 removed from ready queue 
+Ready Queue: 0 
+process: 1 added to io queue
+IO Queue: 1 
+process: 1 removed from IO queue 
+IO Queue: 
+process: 1 added to ready queue
+Ready Queue: 1: 11.4108; 
+process: 1 removed from ready queue 
+Ready Queue: 0 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 10.1981; 
+process: 2 removed from ready queue 
+Ready Queue: 0 
+process: 1 added to io queue
+IO Queue: 1 
+process: 1 removed from IO queue 
+IO Queue: 
+process: 1 added to ready queue
+Ready Queue: 1: 11.5122; 
+process: 1 removed from ready queue 
+Ready Queue: 0 
+process: 0 removed from ready queue 
+Ready Queue: 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 10.2156; 
+process: 2 removed from ready queue 
+Ready Queue: 
+process: 0 added to io queue
+IO Queue: 0 
+process: 0 removed from IO queue 
+IO Queue: 
+process: 0 added to ready queue
+Ready Queue: 0: 12.4692; 
+process: 0 removed from ready queue 
+Ready Queue: 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 10.2273; 
+process: 2 removed from ready queue 
+Ready Queue: 
+process: 0 added to io queue
+IO Queue: 0 
+process: 0 removed from IO queue 
+IO Queue: 
+process: 0 added to ready queue
+Ready Queue: 0: 12.8686; 
+process: 0 removed from ready queue 
+Ready Queue: 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 10.2351; 
+process: 2 removed from ready queue 
+Ready Queue: 
+process: 0 added to io queue
+IO Queue: 0 
+process: 0 removed from IO queue 
+IO Queue: 
+process: 0 added to ready queue
+Ready Queue: 0: 13.1349; 
+process: 0 removed from ready queue 
+Ready Queue: 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 10.2403; 
+process: 2 removed from ready queue 
+Ready Queue: 
+process: 0 added to io queue
+IO Queue: 0 
+process: 0 removed from IO queue 
+IO Queue: 
+process: 0 added to ready queue
+Ready Queue: 0: 13.3125; 
+process: 0 removed from ready queue 
+Ready Queue: 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 10.2437; 
+process: 2 removed from ready queue 
+Ready Queue: 
+process: 0 added to io queue
+IO Queue: 0 
+process: 0 removed from IO queue 
+IO Queue: 
+process: 0 added to ready queue
+Ready Queue: 0: 13.4308; 
+process: 0 removed from ready queue 
+Ready Queue: 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 10.246; 
+process: 2 removed from ready queue 
+Ready Queue: 
+process: 0 added to io queue
+IO Queue: 0 
+process: 0 removed from IO queue 
+IO Queue: 
+process: 0 added to ready queue
+Ready Queue: 0: 13.5097; 
+process: 0 removed from ready queue 
+Ready Queue: 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 10.2476; 
+process: 2 removed from ready queue 
+Ready Queue: 
+process: 2 added to io queue
+IO Queue: 2 
+process: 2 removed from IO queue 
+IO Queue: 
+process: 2 added to ready queue
+Ready Queue: 2: 10.2486; 
+process: 2 removed from ready queue 
+Ready Queue: 
+
+Throughput: 0.00579413processes/sec
+CPU Utilization: 99.7818%
+Process 9:
+   Waiting time: 371.127 seconds
+   Turnaround time: 523.354 seconds
+Process 8:
+   Waiting time: 520.058 seconds
+   Turnaround time: 741.406 seconds
+Process 7:
+   Waiting time: 665.111 seconds
+   Turnaround time: 852.073 seconds
+Process 6:
+   Waiting time: 952.086 seconds
+   Turnaround time: 1180.37 seconds
+Process 5:
+   Waiting time: 999.276 seconds
+   Turnaround time: 1206.94 seconds
+Process 3:
+   Waiting time: 1299.36 seconds
+   Turnaround time: 1411.01 seconds
+Process 4:
+   Waiting time: 1281.31 seconds
+   Turnaround time: 1453.62 seconds
+Process 1:
+   Waiting time: 1479.87 seconds
+   Turnaround time: 1588.11 seconds
+Process 0:
+   Waiting time: 1580.62 seconds
+   Turnaround time: 1724.33 seconds
+Process 2:
+   Waiting time: 1521.82 seconds
+   Turnaround time: 1725.89 seconds
+System Average Waiting Time: 1067.06 seconds

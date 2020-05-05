@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_SH=CMAKE_SH-NOTFOUND -G "CodeBlocks - MinGW Makefiles" D:\Classes\CS520\Simulation_Project
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Classes/CS520/Simulation_Project/cmake-build-debug
